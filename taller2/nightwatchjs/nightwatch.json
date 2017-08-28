@@ -30,16 +30,8 @@
       },
       "desiredCapabilities": {
         "browserName": "chrome",
+        "chromeOptions": { "args": [ "--headless", "--disable-gpu", "--window-size=800,600" ] },
         "marionette": true
-      }
-    },
-
-    "chrome" : {
-      "desiredCapabilities": {
-        "browserName": "chrome",
-        "chromeOptions": {
-          "args": [ "--headless", "--disable-gpu", "--window-size=800,600" ]
-        }
       }
     }
   }
