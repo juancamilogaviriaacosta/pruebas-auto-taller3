@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="archivo"
+    errors="0" failures="0" hostname="" id="" package="archivo" skipped="0"
+    tests="1" time="4.922" timestamp="Wed, 23 Aug 2017 19:55:10 GMT">
+  
+    <testcase name="Los estudiantes prueba busqueda profesor y filtro por materia" classname="archivo" time="4.922" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
